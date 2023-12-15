@@ -95,8 +95,4 @@ The trained model can be evaluated using various metrics. The evaluation results
 Contributing
 
 If you would like to contribute to this project, please follow the standard GitHub Fork and Pull Request workflow. Contributions, bug reports, and feature requests are welcome.
-License
 
-This project is licensed under the [Your License Name] License - see the LICENSE file for details.
-
-Feel free to customize this README file further to provide specific details about your project, dataset, and usage instructions. Replace [Your License Name] with the appropriate license type for your project.
